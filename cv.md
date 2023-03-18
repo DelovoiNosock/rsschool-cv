@@ -20,3 +20,11 @@ function multiply($a, $b){
  return $a * $b;
 }
 ```
+## Education
+* Zugres General Education School No.9
+* RS Schools Course «JavaScript/Front-end. Stage 0»
+
+## Languages
+* English - Elementary
+* Russian
+* Ukrainian
