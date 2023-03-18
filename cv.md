@@ -2,8 +2,8 @@
 
 ## Contact
 * **E-mail:** mainkravt.100@gmail.com
-* **GitHub:** DelovoiNosock
-* **Telegram:** @afdvcs
+* **GitHub:** [DelovoiNosock](https://github.com/DelovoiNosock)
+* **Telegram:** [@afdvcs](https://t.me/afdvcs)
 
 ## About Me
    I am a junior frontend developer. I learn fast. I'm going to learn to be a programmer.
